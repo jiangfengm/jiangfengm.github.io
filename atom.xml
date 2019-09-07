@@ -6,54 +6,33 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-07T04:10:47.432Z</updated>
+  <updated>2019-09-07T08:43:32.256Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>江枫</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>“无题”</title>
-    <link href="http://yoursite.com/2019/09/07/%E2%80%9C%E6%97%A0%E9%A2%98%E2%80%9D/"/>
-    <id>http://yoursite.com/2019/09/07/“无题”/</id>
+    <title>this is my first blog</title>
+    <link href="http://yoursite.com/2019/09/07/Hello%20world/"/>
+    <id>http://yoursite.com/2019/09/07/Hello world/</id>
     <published>2019-09-06T19:14:24.000Z</published>
-    <updated>2019-09-07T04:10:47.432Z</updated>
+    <updated>2019-09-07T08:43:32.256Z</updated>
     
-    <content type="html"><![CDATA[<h2>#&lt;center&gt;第一篇正式的博客</h2><p>   &lt;font face=“楷体” size=5&gt;也不知道该写点啥，有点东西总比空落落的要好些，真是不善表达一些东西，反反复复写来写去又删了，总之，每天有点小收获，每天有点新进步，挺好的。<br>  早点休息吧。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2&gt;#&amp;lt;center&amp;gt;第一篇正式的博客&lt;/h2&gt;
-&lt;p&gt;   &amp;lt;font face=“楷体” size=5&amp;gt;也不知道该写点啥，有点东西总比空落落的要好些，真是不善表达一些东西，反反复复写来写去又删了，总之，每天有点小收获，每天有点新进步，挺好的。&lt;br
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/09/07/%E6%97%A0%E9%A2%98/"/>
-    <id>http://yoursite.com/2019/09/07/无题/</id>
-    <published>2019-09-06T18:47:40.789Z</published>
-    <updated>2019-09-06T19:08:38.975Z</updated>
-    
-    <content type="html"><![CDATA[<h2>#&lt;center&gt;第一篇正式的博客</h2><p>   &lt;font face=“楷体” size=5&gt;也不知道该写点啥，有点东西总比空落落的要好些，真是不善表达一些东西，反反复复写来写去又删了，总之，每天有点小收获，每天有点新进步，挺好的。<br>  早点休息吧。</p>]]></content>
+    <content type="html"><![CDATA[<h2>  也不知道该写点啥，有点东西总比空落落的要好些，真是不善表达一些东西，反反复复写来写去又删了，总之，每天有点小收获，每天有点新进步，挺好的。</h2><h2>  一个小目标：早睡早起。</h2><hr>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2&gt;#&amp;lt;center&amp;gt;第一篇正式的博客&lt;/h2&gt;
-&lt;p&gt;   &amp;lt;font face=“楷体” size=5&amp;gt;也不知道该写点啥，有点东西总比空落落的要好些，真是不善表达一些东西，反反复复写来写去又删了，总之，每天有点小收获，每天有点新进步，挺好的。&lt;br
+        &lt;h2&gt;  也不知道该写点啥，有点东西总比空落落的要好些，真是不善表达一些东西，反反复复写来写去又删了，总之，每天有点小收获，每天有点新进步，挺好的。&lt;/h2&gt;
+&lt;h2&gt;  一个小目标：早睡早起。&lt;/h2&gt;
+&lt;hr&gt;
+
       
     
     </summary>
